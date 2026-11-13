@@ -2,6 +2,6 @@ package Main;
 
 public class Main {
     static void main() {
-        System.out.println("New farm!");
+        System.out.println("New farm");
     }
 }
